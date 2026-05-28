@@ -8,3 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Tooling data
+.sisyphus/
+plan/
+.ruff_cache/
+.pytest_cache/
+
+# Legacy project copies (root-level, not tracked)
+circuit/
+phntwk/
